@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prometheus MSLA</title>
+    <link>https://stefanraatz.github.io/</link>
+    <description>Recent content on Prometheus MSLA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 May 2022 16:35:56 +0200</lastBuildDate><atom:link href="https://stefanraatz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual</title>
+      <link>https://stefanraatz.github.io/manual/</link>
+      <pubDate>Sat, 07 May 2022 16:42:44 +0200</pubDate>
+      
+      <guid>https://stefanraatz.github.io/manual/</guid>
+      <description>Direct linked page from start Page</description>
+    </item>
+    
+    <item>
+      <title>FirtsTestPost</title>
+      <link>https://stefanraatz.github.io/posts/firstpost/</link>
+      <pubDate>Sat, 07 May 2022 16:35:56 +0200</pubDate>
+      
+      <guid>https://stefanraatz.github.io/posts/firstpost/</guid>
+      <description>First Test Post for the Prometheus Website, how will this look, Cheers</description>
+    </item>
+    
+  </channel>
+</rss>
